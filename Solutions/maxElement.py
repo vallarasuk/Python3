@@ -4,3 +4,9 @@
 # Example Output: 50
 
 
+def find_max_value(values):
+    return max(values)
+
+value = [ 10,20,30, 40, 50]
+
+print(find_max_value(value))
