@@ -1,5 +1,9 @@
 # Basic Array and List Problems Repository
 
+```python {"id":"01J21ERAX0YAHYFKQ946N132EA"}
+https://chatgpt.com/share/198c797d-9777-4a1d-ac71-603901fa2dff    
+```
+
 Welcome to the Basic Array and List Problems Repository! This repository contains solutions to common problems related to arrays and lists in Python.
 
 ## Overview
@@ -29,6 +33,7 @@ Here is a list of problems currently included in this repository:
 ## Usage
 
 To use this repository:
+
 1. Clone or download the repository to your local machine.
 2. Navigate to the directory containing the Python files (`sumAllElement.py`, etc.).
 3. Open any file to view the problem statement and its corresponding solution.
@@ -36,9 +41,11 @@ To use this repository:
 ## Example
 
 For example, to find the sum of all elements in a list (`sumAllElement.py`):
-```python
+
+```python {"id":"01J21EM1CF5Y24V6NGETR1ZJNC"}
 def total_sum(values):
     return sum(values)
 
 values = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 print(total_sum(values))  # Output: 55
+```
